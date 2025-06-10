@@ -1,0 +1,5 @@
+numpy>=1.21        # Numeric operations and arrays
+pandas>=1.4       # Data loading and manipulation
+matplotlib       # Plotting histograms, ROC curves, confusion matrices
+seaborn          # Enhanced statistical visualizations
+scikit-learn     # Preprocessing, model selection, metrics
